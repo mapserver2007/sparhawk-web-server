@@ -1,4 +1,4 @@
-# sparhawk-web-web
+# sparhawk-web-server
 
 リアルタイム追跡システム「Sparhawk」のWebサーバです。
 
